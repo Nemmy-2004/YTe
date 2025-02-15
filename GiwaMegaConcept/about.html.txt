@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - GIWA MEGA CONCEPT</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <header>
+        <h1>About Us</h1>
+    </header>
+    <section>
+        <p>At Giwa Mega Concept, we set the benchmark in innovation, distribution, and technology-driven solutions.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 GIWA MEGA CONCEPT. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
